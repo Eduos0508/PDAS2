@@ -3,7 +3,7 @@
     console.log(handle)
     console.log(image)
   return (
-    <div>profilecard</div>
+    <div>profilecard32</div>
   )
 }
 export default Profilecard
