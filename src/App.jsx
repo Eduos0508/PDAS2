@@ -31,8 +31,13 @@ function App() {
           </div>
           <div className="column is-4">
             <Profilecard 
-            />
+            title="cortana"
+            handle="@cortana001"
+            image="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPgNVyuWejhkIZJ9FQ_bvq5g5SjvVBKRpNgA&s"
+
+             />
           </div>
+          
         </div>
       </section>
     </div>
